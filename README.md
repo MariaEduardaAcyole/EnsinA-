@@ -35,7 +35,9 @@ Este projeto foi desenvolvido utilizando um conjunto de tecnologias modernas e f
 ### **Design**  
 - 🎨 **Figma**  
 
-### **Backend e Banco de Dados**  
+### **Backend e Banco de Dados**
+- **NODE.JS**
+- **Express.js**
 - 🛠️ **Supabase**  
 ---
 
