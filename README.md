@@ -68,9 +68,11 @@ Este projeto foi desenvolvido por uma equipe de cinco integrantes dedicados a tr
 ## O projeto
 Visualize abaixo o video do sistema funcionando, e sinta-se a vontade para explorar voce mesmo no link
 
-- https://ensinai-vlo6.onrender.com/index 
+- https://ensinai-vlo6.onrender.com/index
+-- login: usuario@gmail.com
+-- senha: 123456
 
-  https://github.com/user-attachments/assets/7c7bdec4-522f-4ea4-b2ec-b0d0c1c1b9f2
+https://github.com/user-attachments/assets/7c7bdec4-522f-4ea4-b2ec-b0d0c1c1b9f2
 
 ---
 
